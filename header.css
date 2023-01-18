@@ -1,0 +1,38 @@
+
+
+.header {
+  overflow: hidden;
+    background-color:wheat;
+    padding: 20px 10px;
+  }
+
+
+  .header a {
+    float: left;
+    color: orange;
+    padding:10px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 10px;
+    display: block;
+    
+  }
+
+ 
+.header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .header-right {
+    float: right;
+    padding: 10px;
+    
+  }
+
+  .header a.active {
+    background-color: dodgerblue;
+    color: white;
+  }
+
+ 
